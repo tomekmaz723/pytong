@@ -10,7 +10,7 @@ from collections import Counter
 # data = list(df['Imie'])
 # mylist = df['Nazwisko'].tolist()
 # print(data)
-
+# pdw
 #
 
 def load(file):
