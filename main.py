@@ -6,7 +6,7 @@ from collections import Counter
 
 # df = pd.read_excel(r'D:\OneDrive\Pulpit\projekt.xlsx')
 
-# data = []
+
 # data = list(df['Imie'])
 # mylist = df['Nazwisko'].tolist()
 # print(data)
